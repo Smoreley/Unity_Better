@@ -2,7 +2,17 @@
 
 public class QuadTree {
 
-#region Variables
+#region Properties
+
+	public int maxNodeChildren;
+
+#endregion
+
+#region Methods
+
+	public void Clear() {
+		
+	}
 
 #endregion
 
