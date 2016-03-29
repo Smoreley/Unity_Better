@@ -3,6 +3,12 @@ Meddlings
 
 Various code bits I have created for Unity.
 
-      -Editor: Scripts that extend the Unity editor
+      -2D: Scripts for 2D games.
 
-      -Scripts: Other scripts not related to extending the Unity editor.
+      -Command: Implementation of the Command patter.
+      
+      -Editor: Scripts extending the editor.
+      
+      -Input: Input manager and combo sytem.
+      
+      -Mics: Jumble of things.
