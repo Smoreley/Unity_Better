@@ -5,7 +5,7 @@ Various code bits I have created for Unity.
 
       -2D: Scripts for 2D games.
 
-      -Command: Implementation of the Command patter.
+      -Command: Implementation of the Command pattern.
       
       -Editor: Scripts extending the editor.
       
